@@ -1,0 +1,6 @@
+datos_brutos.json
+cookies.txt
+informe_final.txt
+.env
+__pycache__/
+*.log
